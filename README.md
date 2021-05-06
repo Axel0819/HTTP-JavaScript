@@ -1,4 +1,4 @@
-# Webpack starter
+# HTTP JS
 
 Recursos sobre peticiones HTTP en JavaScript
 
